@@ -1,17 +1,10 @@
-Description
-TRANSFORM YOUR WOOCOMMERCE STORE WITH OUR CATALOG MODE PLUGIN, FEATURING AN INTEGRATED INQUIRY SYSTEM FOR STREAMLINED QUOTE REQUESTS AND ADVANCED WHOLESALE/B2B PRICING MANAGEMENT.
-
-
-Elevate your WooCommerce Shop with Product Catalog Mode For WooCommerce and Integrated Inquiry button for an engaging catalog experience. Collect customer inquiries for each product effortlessly via email using dedicated custom inquiry forms. 
-
-This plugin simplifies the quotation process, allowing customers to effortlessly request quotes directly from your site. It’s an ideal solution for wholesale and B2B operations, offering efficient management of wholesale and dynamic pricing rule. With its extensive customization options, you can tailor the shopping experience to meet your business needs.
-
+== Description ==
+CatalogX is your all-in-one solution to elevate your WooCommerce store's functionality and enhance customer interactions. With six robust features designed to optimize your e-commerce experience, CatalogX is the ultimate tool for boosting sales and streamlining operations.
 
 = Features =
-
-Disable Purchase Options
-Replace Add-to-Cart button with a Custom Button.
-Hide product prices.
+🚫 Disable Purchase Options
+🛒 Replace Add-to-Cart button with a Custom Button.
+🔒 Hide product prices.
 📔 WooCommerce Catalog Mode
 💬 Product Inquiry
 📔 Hide Add to Cart
@@ -24,13 +17,15 @@ Hide product prices.
 🔠WooCommerce Shortcodes
 🤝MultiVendor Support using [MultiVendorX](https://wordpress.org/plugin/dc-woocommerce-multi-vendor/) Compatibility
 
-👉 Want to see CatalogX in action? – : MultiVendorX Catalog Mode
+👉 Want to see CatalogX in action?
 
-🌐 Explore our Documentation
+  🌐 Explore our [Documentation](https://catalogx.com/knowledgebase/)
 
-👉 Learn More About (PRO)
+  👉 Learn More About [CatalogX PRO](https://catalogx.com/pricing/)
 
-👉 Try CatalogX Free & Pro Demo :
+  👉 Try CatalogX Free & Pro [Demo](https://multivendordemo.com/product-catalog-enquiry-pro/wp-admin)
+
+= Detailed Feature Breakdown =
 
 ==✌️Catalog ==
 Gain precise control over store pricing visibility. This powerful tool allows creating an air of exclusivity, protecting sensitive pricing information, and encouraging direct customer engagement, ultimately leading to more personalized sales interactions and potentially higher conversion rates.
