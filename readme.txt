@@ -122,6 +122,18 @@ Streamline your customer communication with a powerful, all-in-one messaging das
 🔐 Role-based dashboards: Maintain organized workflows with separate views for administrators and customers.
 📊 Streamlined inquiry tracking: Monitor and manage all customer interactions from a single, intuitive interface.
 
+== Dynamic Page & Form Customization ==
+Elevate your customer interactions with real-time page customization for both inquiry and wholesale registration forms. This versatile tool allows you to create tailored, brand-aligned experiences that capture essential information while maintaining security and ease of management.
+
+== Key Features: ==
+🖌️ Real-time customization: Instantly adapt your inquiry and wholesale registration forms to meet changing business needs.
+🎨 Brand-aligned design: Craft forms that seamlessly integrate with your visual identity and user experience.
+🧩 Diverse field options: Utilize a range of input types including text, checkboxes, dropdowns, and file uploads.
+🛡️ Enhanced security: Implement reCAPTCHA to protect against spam and form abuse.
+🔧 Intuitive administration: Easily manage and update forms through a user-friendly interface.
+📊 Dual-purpose functionality: Customize both inquiry and wholesale registration forms from a single platform.
+🔄 Adaptable user experience: Create forms that cater to both general inquiries and specialized wholesale clients.
+
 = Why Choose CatalogX? =
 CatalogX empowers your WooCommerce store with advanced features that enhance customer engagement, streamline operations, and boost sales. Transform your e-commerce experience today with CatalogX!
 
