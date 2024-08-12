@@ -100,3 +100,58 @@ The Real-Time Page Builder module to create visually appealing shop pages withou
 🔄 Experiment with new designs in a safe testing environment without affecting your live site.
 📊 Boost sales by strategically placing buttons where they'll get the most clicks.
 🎨 Easily match your brand’s style with custom color and font options, creating a cohesive look.
+
+==✌️Customizable Inquiry Forms ==
+Transform your customer interactions with fully adaptable forms tailored to your unique business requirements. This versatile tool empowers you to create engaging inquiry experiences, capture essential information, and streamline your customer communication process.
+
+== Key Features: ==
+🎨 Design with brand alignment: Craft visually appealing forms that reflect your company's aesthetic.
+🧩 Diverse field options: Utilize a range of input types including text, checkboxes, dropdowns, and file uploads.
+🛡️ Enhanced security measures: Implement reCAPTCHA to safeguard against spam and form abuse.
+🔧 User-friendly management: Easily create, edit, and update forms through an intuitive admin interface.
+📊 Tailored data collection: Capture the exact information you need for each customer inquiry.
+
+== ✌️Centralized Inquiry Hub ==
+Streamline your customer communication with a powerful, all-in-one messaging dashboard. This comprehensive tool simplifies inquiry management, enhances team collaboration, and ensures prompt, organized responses to customer queries.
+
+== Key Features: ==
+💬 Unified conversation platform: Access all customer inquiries and ongoing discussions in one centralized location.
+🔍 Intelligent search functionality: Quickly retrieve specific inquiries using @tags for efficient information management.
+📌 Priority message highlighting: Pin crucial messages to keep important information readily accessible.
+📎 Integrated file sharing: Attach and exchange files directly within conversations for comprehensive communication.
+🔐 Role-based dashboards: Maintain organized workflows with separate views for administrators and customers.
+📊 Streamlined inquiry tracking: Monitor and manage all customer interactions from a single, intuitive interface.
+
+= Why Choose CatalogX? =
+CatalogX empowers your WooCommerce store with advanced features that enhance customer engagement, streamline operations, and boost sales. Transform your e-commerce experience today with CatalogX!
+
+== Installation ==
+Upload the plugin files to the /wp-content/plugins/catalogx directory, or install the plugin through the WordPress plugins screen directly.
+Activate the plugin through the 'Plugins' screen in WordPress.
+Use the Settings->CatalogX screen to configure the plugin.
+
+== Frequently Asked Questions ==
+= Is CatalogX compatible with my theme? =
+CatalogX is designed to work with most WooCommerce-compatible themes. However, we recommend testing it with your specific theme to ensure optimal compatibility.
+= Can I use multiple features simultaneously? =
+Yes, all features in CatalogX are designed to work together seamlessly. You can enable and customize each feature according to your needs.
+= Is there a limit to the number of pricing rules I can create? =
+There is no set limit to the number of pricing rules you can create with the Dynamic Rule-Based Pricing feature. However, we recommend keeping your rules manageable for optimal performance.
+
+== Screenshots ==
+
+Catalog Mode in action
+Enquiry Module interface
+Quotation Module dashboard
+Wholesale pricing setup
+Dynamic Rule-Based Pricing configuration
+Real-Time Page Builder interface
+
+== Changelog ==
+= 1.0 =
+
+Initial release
+
+== Upgrade Notice ==
+= 1.0 =
+This is the initial release of CatalogX.
